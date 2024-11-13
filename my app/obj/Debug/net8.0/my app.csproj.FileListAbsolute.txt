@@ -1,0 +1,14 @@
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\bin\Debug\net8.0\my app.exe
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\bin\Debug\net8.0\my app.deps.json
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\bin\Debug\net8.0\my app.runtimeconfig.json
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\bin\Debug\net8.0\my app.dll
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\bin\Debug\net8.0\my app.pdb
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.AssemblyInfoInputs.cache
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.AssemblyInfo.cs
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.csproj.CoreCompileInputs.cache
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.dll
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\refint\my app.dll
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.pdb
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\my app.genruntimeconfig.cache
+C:\Users\PC RPL - LAB 3\Documents\VSCODE.AGNIKHOERUNISA\my app\obj\Debug\net8.0\ref\my app.dll
